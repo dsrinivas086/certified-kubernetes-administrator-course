@@ -14,7 +14,7 @@ BUILD_MODE = "BRIDGE"
 NUM_WORKER_NODES = 2
 
 # Network parameters for NAT mode
-IP_NW = "192.168.56"
+IP_NW = "10.0.0"
 MASTER_IP_START = 11
 NODE_IP_START = 20
 
